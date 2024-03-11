@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavBar } from '../UI'
 import { Navigate, Route, Routes } from 'react-router-dom'
-import { HeroePage, MarvelPage, DcPage} from '../heroes/'
+import { MarvelPage, DcPage} from '../heroes/'
 import { SearchPage } from '../UI/Pages/SearchPage'
 import { LoginPage } from '../auth'
 import { QueryPage } from '../UI/Pages/QueryPage'
